@@ -1,0 +1,8 @@
+﻿Tên gồm nhiều chữ
+INPUT: Tên x;
+OUPUT: Tên Y (dạng chuẩn);
+Dạng chuẩn là
+- Không có dấu cách thừa ở 2 đầu
+- Giữa 2 từ cách nhau đúng 1 dấu cách
+- Chữ cái đầu từ viết hoa
+- Chữ cái thân từ viết thường

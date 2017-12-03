@@ -1,0 +1,13 @@
+﻿﻿DT20‣TRIPLES: 100.00
+TRIPLES.cpp
+Dịch thành công
+
+DT20‣TRIPLES‣test001: 40.00
+Thời gian ≈ 0.021776229 giây
+Kết quả khớp đáp án!
+DT20‣TRIPLES‣test002: 30.00
+Thời gian ≈ 0.031042905 giây
+Kết quả khớp đáp án!
+DT20‣TRIPLES‣test003: 30.00
+Thời gian ≈ 0.057967159 giây
+Kết quả khớp đáp án!

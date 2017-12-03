@@ -1,0 +1,33 @@
+﻿﻿DT20‣us: 90.00
+us.cpp
+Dịch thành công
+
+DT20‣us‣test001: 10.00
+Thời gian ≈ 0.452228225 giây
+Kết quả khớp đáp án!
+DT20‣us‣test002: 10.00
+Thời gian ≈ 0.456609032 giây
+Kết quả khớp đáp án!
+DT20‣us‣test003: 10.00
+Thời gian ≈ 0.458200443 giây
+Kết quả khớp đáp án!
+DT20‣us‣test004: 10.00
+Thời gian ≈ 0.452641669 giây
+Kết quả khớp đáp án!
+DT20‣us‣test005: 10.00
+Thời gian ≈ 0.449264059 giây
+Kết quả khớp đáp án!
+DT20‣us‣test006: 10.00
+Thời gian ≈ 0.448334389 giây
+Kết quả khớp đáp án!
+DT20‣us‣test007: 10.00
+Thời gian ≈ 0.448842147 giây
+Kết quả khớp đáp án!
+DT20‣us‣test008: 0.00
+Chạy quá thời gian
+DT20‣us‣test009: 10.00
+Thời gian ≈ 3.659741425 giây
+Kết quả khớp đáp án!
+DT20‣us‣test010: 10.00
+Thời gian ≈ 3.681970362 giây
+Kết quả khớp đáp án!

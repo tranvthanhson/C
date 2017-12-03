@@ -1,0 +1,304 @@
+﻿﻿DT20‣EP: 0.00
+EP.cpp
+Dịch thành công
+
+DT20‣EP‣test001: 0.00
+Thời gian ≈ 0.138440425 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test002: 0.00
+Thời gian ≈ 0.074648486 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test003: 0.00
+Thời gian ≈ 0.075046532 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test004: 0.00
+Thời gian ≈ 0.076953607 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test005: 0.00
+Thời gian ≈ 0.072723318 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test006: 0.00
+Thời gian ≈ 0.074539929 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test007: 0.00
+Thời gian ≈ 0.075209753 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test008: 0.00
+Thời gian ≈ 0.075859560 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test009: 0.00
+Thời gian ≈ 0.075160479 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test010: 0.00
+Thời gian ≈ 0.072560097 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test011: 0.00
+Thời gian ≈ 0.078365628 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test012: 0.00
+Thời gian ≈ 0.076750735 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test013: 0.00
+Thời gian ≈ 0.092439259 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test014: 0.00
+Thời gian ≈ 0.074039100 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test015: 0.00
+Thời gian ≈ 0.075156244 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test016: 0.00
+Thời gian ≈ 0.073944786 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test017: 0.00
+Thời gian ≈ 0.074511057 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test018: 0.00
+Thời gian ≈ 0.073903210 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test019: 0.00
+Thời gian ≈ 0.076627549 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test020: 0.00
+Thời gian ≈ 0.074476796 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test021: 0.00
+Thời gian ≈ 0.076580199 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test022: 0.00
+Thời gian ≈ 0.073395068 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test023: 0.00
+Thời gian ≈ 0.073496311 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test024: 0.00
+Thời gian ≈ 0.074641172 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test025: 0.00
+Thời gian ≈ 0.077204214 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test026: 0.00
+Thời gian ≈ 0.074245052 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test027: 0.00
+Thời gian ≈ 0.074711619 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test028: 0.00
+Thời gian ≈ 0.075147390 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test029: 0.00
+Thời gian ≈ 0.075096961 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test030: 0.00
+Thời gian ≈ 0.076325743 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test031: 0.00
+Thời gian ≈ 0.073335784 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test032: 0.00
+Thời gian ≈ 0.074070666 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test033: 0.00
+Thời gian ≈ 0.074791690 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test034: 0.00
+Thời gian ≈ 0.075403002 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test035: 0.00
+Thời gian ≈ 0.076026246 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test036: 0.00
+Thời gian ≈ 0.075299448 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test037: 0.00
+Thời gian ≈ 0.076400424 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test038: 0.00
+Thời gian ≈ 0.076479340 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test039: 0.00
+Thời gian ≈ 0.074885235 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test040: 0.00
+Thời gian ≈ 0.076121716 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test041: 0.00
+Thời gian ≈ 0.078716324 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test042: 0.00
+Thời gian ≈ 0.073354647 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test043: 0.00
+Thời gian ≈ 0.075782569 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test044: 0.00
+Thời gian ≈ 0.073569068 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test045: 0.00
+Thời gian ≈ 0.075732909 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test046: 0.00
+Thời gian ≈ 0.086092863 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test047: 0.00
+Thời gian ≈ 0.076683752 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test048: 0.00
+Thời gian ≈ 0.075347953 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test049: 0.00
+Thời gian ≈ 0.073316921 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test050: 0.00
+Thời gian ≈ 0.073509015 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test051: 0.00
+Thời gian ≈ 0.106159114 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test052: 0.00
+Thời gian ≈ 0.123905616 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test053: 0.00
+Thời gian ≈ 0.080431690 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test054: 0.00
+Thời gian ≈ 0.128182485 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test055: 0.00
+Thời gian ≈ 0.111276343 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test056: 0.00
+Thời gian ≈ 0.085301392 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test057: 0.00
+Thời gian ≈ 0.091550779 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test058: 0.00
+Thời gian ≈ 0.113092184 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test059: 0.00
+Thời gian ≈ 0.107468352 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test060: 0.00
+Thời gian ≈ 0.091138105 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test061: 0.00
+Thời gian ≈ 0.076325743 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test062: 0.00
+Thời gian ≈ 0.106699208 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test063: 0.00
+Thời gian ≈ 0.127571174 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test064: 0.00
+Thời gian ≈ 0.108511969 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test065: 0.00
+Thời gian ≈ 0.110629616 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test066: 0.00
+Thời gian ≈ 0.149313141 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test067: 0.00
+Thời gian ≈ 0.106093672 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test068: 0.00
+Thời gian ≈ 0.096730371 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test069: 0.00
+Thời gian ≈ 0.099502444 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test070: 0.00
+Thời gian ≈ 0.108637850 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test071: 0.00
+Thời gian ≈ 0.090582613 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test072: 0.00
+Thời gian ≈ 0.111256710 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test073: 0.00
+Thời gian ≈ 0.090257709 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test074: 0.00
+Thời gian ≈ 0.114238970 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test075: 0.00
+Thời gian ≈ 0.126543339 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test076: 0.00
+Thời gian ≈ 0.110916024 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test077: 0.00
+Thời gian ≈ 0.076047034 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test078: 0.00
+Thời gian ≈ 0.108608978 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test079: 0.00
+Thời gian ≈ 0.133802082 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test080: 0.00
+Thời gian ≈ 0.126813194 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test081: 0.00
+Thời gian ≈ 0.123764722 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test082: 0.00
+Thời gian ≈ 0.101195868 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test083: 0.00
+Thời gian ≈ 0.098608189 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test084: 0.00
+Thời gian ≈ 0.098545826 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test085: 0.00
+Thời gian ≈ 0.076520916 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test086: 0.00
+Thời gian ≈ 0.095990869 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test087: 0.00
+Thời gian ≈ 0.125766882 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test088: 0.00
+Thời gian ≈ 0.092193271 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test089: 0.00
+Thời gian ≈ 0.113481760 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test090: 0.00
+Thời gian ≈ 0.113832070 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test091: 0.00
+Thời gian ≈ 0.120636564 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test092: 0.00
+Thời gian ≈ 0.147267096 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test093: 0.00
+Thời gian ≈ 0.084182323 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test094: 0.00
+Thời gian ≈ 0.102087812 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test095: 0.00
+Thời gian ≈ 0.121592412 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test096: 0.00
+Thời gian ≈ 0.100661933 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test097: 0.00
+Thời gian ≈ 0.130538420 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test098: 0.00
+Thời gian ≈ 0.129104841 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test099: 0.00
+Thời gian ≈ 0.079996304 giây
+Kết quả KHÁC đáp án!
+DT20‣EP‣test100: 0.00
+Thời gian ≈ 0.090497537 giây
+Kết quả KHÁC đáp án!

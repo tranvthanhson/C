@@ -1,0 +1,12 @@
+﻿Các bước trong thuật toán quy hoạch động
+1. D(i) = H(D[j])
+2. j <= i: Tiến
+3. j >= i: Lùi
+
+Sơ đồ
+1. Lập hệ thức quy hoạch động
+2. Chương trình dữ liệu nhỏ
+3. Cải tiến -> Khử đệ quy giảm tối đa số lần gọi hàm (Mỗi hàm chỉ đc gọi tối đa 1 lần) (Dùng quy hoạch động)
+Dùng mảng số chiều = số ngôi của hàm
+4. Cải tiến mạnh
+Dùng 1 (hay 1 vài) mảng 1 chiều để giải quyết bài toán

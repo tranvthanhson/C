@@ -1,0 +1,6 @@
+﻿Tài liệu học thêm
+1. Toán rời rạc: Lượng, Đếm, Tổ hợp - Nguyễn Tố Thanh, Nguyễn Đức Nghĩa
+2. Cẩm nang thuật toán (3 tập) - Siegevics
+3. Toán rời rạc dùng cho CNTT - Rosel
+4. Sáng tạo trong Thuật toán và Lập trình (3 tập) - Nguyễn Xuân Huy
+5. Project Euler

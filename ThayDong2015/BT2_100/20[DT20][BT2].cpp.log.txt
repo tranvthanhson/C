@@ -1,0 +1,13 @@
+﻿﻿DT20‣BT2: 100.00
+BT2.cpp
+Dịch thành công
+
+DT20‣BT2‣test01: 40.00
+Thời gian ≈ 0.028947971 giây
+Kết quả khớp đáp án!
+DT20‣BT2‣test02: 30.00
+Thời gian ≈ 0.033614416 giây
+Kết quả khớp đáp án!
+DT20‣BT2‣test03: 30.00
+Thời gian ≈ 0.035891435 giây
+Kết quả khớp đáp án!

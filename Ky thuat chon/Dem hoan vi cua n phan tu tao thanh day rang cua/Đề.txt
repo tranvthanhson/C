@@ -1,0 +1,1 @@
+﻿Đếm có bao nhiêu hoán vị của n phần tử sai cho các phần tử đó tạo thành dãy răng cưa

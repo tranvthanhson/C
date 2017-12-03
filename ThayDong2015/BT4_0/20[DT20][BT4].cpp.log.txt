@@ -1,0 +1,13 @@
+﻿﻿DT20‣BT4: 0.00
+BT4.cpp
+Dịch thành công
+
+DT20‣BT4‣test01: 0.00
+Thời gian ≈ 0.031412079 giây
+Kết quả KHÁC đáp án!
+DT20‣BT4‣test02: 0.00
+Thời gian ≈ 0.035382907 giây
+Kết quả KHÁC đáp án!
+DT20‣BT4‣test03: 0.00
+Thời gian ≈ 0.040960544 giây
+Kết quả KHÁC đáp án!

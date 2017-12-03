@@ -1,0 +1,23 @@
+﻿Dãy kí tự Palindrome là xâu đối xứng
+Cho 1 xâu s tối đa 1000 kí tự
+Xóa trong xâu ít nhất bao nhiêu kí tự để đc thành xâu Palindrome
+
+Gọi d(i,j) là length max của xâu đối xứng thu đc sau khi xóa ít nhất 1 số kí tự trong s từ i -> j
+abaxcddycaxyba
+d(1,5) = 1
+a(0,4) = 3
+d(5,13) = 
+Đáp số = length(s) - d(0,n-1)
+Các tích chất của D:
+	- 2 ngôi
+	- d(i, i) = 1
+	- d(9, 1) = 0 (vô lý, tự quy ước không cho đi ngược)
+	- d(i, j) = ?
+-----i----------------j-------
+
+if (s[i] == s[j]) then
+	d(i, j) = 2 + d(i+1, j-1)
+else
+	d(i, j) =
+		d(i+1, j)
+		d(i, j-1)

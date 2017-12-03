@@ -1,0 +1,2 @@
+﻿Cho bộ gồm n phần tử.
+Hãy tìm cách chọn sao cho tổng của 4 phần tử trong bộ (không trùng nhau) có tổng là số nguyên tố.

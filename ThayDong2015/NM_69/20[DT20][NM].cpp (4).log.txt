@@ -1,0 +1,284 @@
+﻿﻿DT20‣NM: 69.00
+NM.cpp
+Dịch thành công
+
+DT20‣NM‣test001: 1.00
+Thời gian ≈ 0.015658112 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test002: 1.00
+Thời gian ≈ 0.017048961 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test003: 1.00
+Thời gian ≈ 0.015156129 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test005: 1.00
+Thời gian ≈ 0.015845971 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test006: 1.00
+Thời gian ≈ 0.014449733 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test007: 1.00
+Thời gian ≈ 0.014465132 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test008: 1.00
+Thời gian ≈ 0.014850473 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test009: 1.00
+Thời gian ≈ 0.016544667 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test010: 1.00
+Thời gian ≈ 0.017041647 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test011: 1.00
+Thời gian ≈ 0.016254025 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test012: 1.00
+Thời gian ≈ 0.014681477 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test013: 1.00
+Thời gian ≈ 0.017003536 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test014: 1.00
+Thời gian ≈ 0.014575999 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test015: 1.00
+Thời gian ≈ 0.015583431 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test016: 1.00
+Thời gian ≈ 0.014591012 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test017: 1.00
+Thời gian ≈ 0.014797349 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test018: 1.00
+Thời gian ≈ 0.016683637 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test019: 1.00
+Thời gian ≈ 0.018367052 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test020: 1.00
+Thời gian ≈ 0.017001226 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test021: 1.00
+Thời gian ≈ 0.014282277 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test022: 1.00
+Thời gian ≈ 0.014780411 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test023: 1.00
+Thời gian ≈ 0.018799359 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test024: 1.00
+Thời gian ≈ 0.014179879 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test025: 1.00
+Thời gian ≈ 0.016787960 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test026: 1.00
+Thời gian ≈ 0.014503242 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test027: 1.00
+Thời gian ≈ 0.021848600 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test028: 1.00
+Thời gian ≈ 0.015210408 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test029: 1.00
+Thời gian ≈ 0.015148430 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test030: 1.00
+Thời gian ≈ 0.015769365 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test031: 1.00
+Thời gian ≈ 0.017045496 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test032: 1.00
+Thời gian ≈ 0.015156129 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test033: 1.00
+Thời gian ≈ 0.014261490 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test034: 1.00
+Thời gian ≈ 0.016550442 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test035: 1.00
+Thời gian ≈ 0.016852248 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test036: 1.00
+Thời gian ≈ 0.015281240 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test037: 1.00
+Thời gian ≈ 0.014566760 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test038: 1.00
+Thời gian ≈ 0.015326665 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test039: 1.00
+Thời gian ≈ 0.015587280 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test040: 1.00
+Thời gian ≈ 0.015265456 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test041: 1.00
+Thời gian ≈ 0.015167293 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test042: 1.00
+Thời gian ≈ 0.016663619 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test043: 1.00
+Thời gian ≈ 0.014207211 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test044: 1.00
+Thời gian ≈ 0.014555596 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test045: 1.00
+Thời gian ≈ 0.016438034 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test046: 1.00
+Thời gian ≈ 0.016319853 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test047: 1.00
+Thời gian ≈ 0.014634513 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test048: 1.00
+Thời gian ≈ 0.016304070 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test049: 1.00
+Thời gian ≈ 0.014882425 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test050: 1.00
+Thời gian ≈ 0.016255565 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test051: 1.00
+Thời gian ≈ 0.014780796 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test052: 1.00
+Thời gian ≈ 0.014010883 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test053: 1.00
+Thời gian ≈ 0.015164213 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test054: 1.00
+Thời gian ≈ 0.014856633 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test055: 0.00
+Thời gian ≈ 0.014717278 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test056: 1.00
+Thời gian ≈ 0.014860482 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test057: 0.00
+Thời gian ≈ 0.023780313 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test058: 1.00
+Thời gian ≈ 0.014889354 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test059: 0.00
+Chạy quá thời gian
+DT20‣NM‣test060: 1.00
+Thời gian ≈ 0.017060124 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test061: 1.00
+Thời gian ≈ 0.015187310 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test062: 0.00
+Thời gian ≈ 0.016690181 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test063: 0.00
+Chạy quá thời gian
+DT20‣NM‣test064: 1.00
+Thời gian ≈ 0.017530926 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test065: 0.00
+Chạy quá thời gian
+DT20‣NM‣test066: 1.00
+Thời gian ≈ 0.018762403 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test067: 1.00
+Thời gian ≈ 0.018173419 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test068: 0.00
+Chạy quá thời gian
+DT20‣NM‣test069: 1.00
+Thời gian ≈ 0.016318313 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test070: 1.00
+Thời gian ≈ 0.016269808 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test071: 1.00
+Thời gian ≈ 0.016743690 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test072: 0.00
+Thời gian ≈ 0.017072443 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test073: 1.00
+Thời gian ≈ 0.015189235 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test074: 0.00
+Chạy quá thời gian
+DT20‣NM‣test075: 1.00
+Thời gian ≈ 0.017846206 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test076: 0.00
+Thời gian ≈ 0.491849505 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test077: 0.00
+Thời gian ≈ 0.017816949 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test078: 1.00
+Thời gian ≈ 0.018424796 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test079: 1.00
+Thời gian ≈ 0.018867111 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test080: 0.00
+Thời gian ≈ 0.017597139 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test081: 0.00
+Thời gian ≈ 0.144597807 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test082: 0.00
+Chạy quá thời gian
+DT20‣NM‣test083: 0.00
+Chạy quá thời gian
+DT20‣NM‣test084: 0.00
+Chạy quá thời gian
+DT20‣NM‣test085: 0.00
+Chạy quá thời gian
+DT20‣NM‣test086: 1.00
+Thời gian ≈ 0.016395689 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test087: 1.00
+Thời gian ≈ 0.015144580 giây
+Kết quả khớp đáp án!
+DT20‣NM‣test088: 0.00
+Thời gian ≈ 0.029147764 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test089: 0.00
+Thời gian ≈ 0.026033849 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test090: 0.00
+Chạy quá thời gian
+DT20‣NM‣test091: 0.00
+Thời gian ≈ 0.713614570 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test092: 0.00
+Chạy quá thời gian
+DT20‣NM‣test093: 0.00
+Thời gian ≈ 0.128679849 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test094: 0.00
+Thời gian ≈ 0.018616504 giây
+Kết quả KHÁC đáp án!
+DT20‣NM‣test095: 0.00
+Chạy quá thời gian
+DT20‣NM‣test096: 0.00
+Chạy quá thời gian
+DT20‣NM‣test097: 0.00
+Chạy quá thời gian
+DT20‣NM‣test098: 0.00
+Chạy quá thời gian
+DT20‣NM‣test099: 0.00
+Chạy quá thời gian
+DT20‣NM‣test100: 0.00
+Chạy quá thời gian

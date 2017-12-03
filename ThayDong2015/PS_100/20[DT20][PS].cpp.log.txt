@@ -1,0 +1,304 @@
+﻿﻿DT20‣PS: 100.00
+PS.cpp
+Dịch thành công
+
+DT20‣PS‣test001: 1.00
+Thời gian ≈ 0.069490837 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test002: 1.00
+Thời gian ≈ 0.020693730 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test003: 1.00
+Thời gian ≈ 0.024261124 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test004: 1.00
+Thời gian ≈ 0.024905926 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test005: 1.00
+Thời gian ≈ 0.017723020 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test006: 1.00
+Thời gian ≈ 0.017393882 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test007: 1.00
+Thời gian ≈ 0.017485502 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test008: 1.00
+Thời gian ≈ 0.014114051 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test009: 1.00
+Thời gian ≈ 0.013764126 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test010: 1.00
+Thời gian ≈ 0.013934276 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test011: 1.00
+Thời gian ≈ 0.013803391 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test012: 1.00
+Thời gian ≈ 0.013874608 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test013: 1.00
+Thời gian ≈ 0.014161016 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test014: 1.00
+Thời gian ≈ 0.014059387 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test015: 1.00
+Thời gian ≈ 0.014066316 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test016: 1.00
+Thời gian ≈ 0.016330632 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test017: 1.00
+Thời gian ≈ 0.014464362 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test018: 1.00
+Thời gian ≈ 0.014506707 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test019: 1.00
+Thời gian ≈ 0.014067856 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test020: 1.00
+Thời gian ≈ 0.014159476 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test021: 1.00
+Thời gian ≈ 0.016012657 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test022: 1.00
+Thời gian ≈ 0.014008188 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test023: 1.00
+Thời gian ≈ 0.015867914 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test024: 1.00
+Thời gian ≈ 0.018778186 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test025: 1.00
+Thời gian ≈ 0.016412627 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test026: 1.00
+Thời gian ≈ 0.016685562 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test027: 1.00
+Thời gian ≈ 0.017447776 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test028: 1.00
+Thời gian ≈ 0.014550207 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test029: 1.00
+Thời gian ≈ 0.014309609 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test030: 1.00
+Thời gian ≈ 0.016947332 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test031: 1.00
+Thời gian ≈ 0.014680707 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test032: 1.00
+Thời gian ≈ 0.017144815 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test033: 1.00
+Thời gian ≈ 0.014438185 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test034: 1.00
+Thời gian ≈ 0.014210290 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test035: 1.00
+Thời gian ≈ 0.016304455 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test036: 1.00
+Thời gian ≈ 0.018072176 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test037: 1.00
+Thời gian ≈ 0.014205286 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test038: 1.00
+Thời gian ≈ 0.014507092 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test039: 1.00
+Thời gian ≈ 0.014371972 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test040: 1.00
+Thời gian ≈ 0.015432528 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test041: 1.00
+Thời gian ≈ 0.017985175 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test042: 1.00
+Thời gian ≈ 0.014880885 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test043: 1.00
+Thời gian ≈ 0.014351954 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test044: 1.00
+Thời gian ≈ 0.015064509 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test045: 1.00
+Thời gian ≈ 0.018259649 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test046: 1.00
+Thời gian ≈ 0.014992522 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test047: 1.00
+Thời gian ≈ 0.016725212 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test048: 1.00
+Thời gian ≈ 0.016877655 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test049: 1.00
+Thời gian ≈ 0.016884584 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test050: 1.00
+Thời gian ≈ 0.015085682 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test051: 1.00
+Thời gian ≈ 0.015010230 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test052: 1.00
+Thời gian ≈ 0.014455123 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test053: 1.00
+Thời gian ≈ 0.014704575 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test054: 1.00
+Thời gian ≈ 0.016348340 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test055: 1.00
+Thời gian ≈ 0.016551597 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test056: 1.00
+Thời gian ≈ 0.017083222 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test057: 1.00
+Thời gian ≈ 0.017816564 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test058: 1.00
+Thời gian ≈ 0.015405581 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test059: 1.00
+Thời gian ≈ 0.015025244 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test060: 1.00
+Thời gian ≈ 0.019665511 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test061: 1.00
+Thời gian ≈ 0.014194122 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test062: 1.00
+Thời gian ≈ 0.017229505 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test063: 1.00
+Thời gian ≈ 0.015399036 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test064: 1.00
+Thời gian ≈ 0.014909757 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test065: 1.00
+Thời gian ≈ 0.014694181 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test066: 1.00
+Thời gian ≈ 0.017176766 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test067: 1.00
+Thời gian ≈ 0.018856332 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test068: 1.00
+Thời gian ≈ 0.018112596 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test069: 1.00
+Thời gian ≈ 0.017423909 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test070: 1.00
+Thời gian ≈ 0.014441264 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test071: 1.00
+Thời gian ≈ 0.017366550 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test072: 1.00
+Thời gian ≈ 0.016646681 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test073: 1.00
+Thời gian ≈ 0.020287216 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test074: 1.00
+Thời gian ≈ 0.014828531 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test075: 1.00
+Thời gian ≈ 0.016655920 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test076: 1.00
+Thời gian ≈ 0.019645493 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test077: 1.00
+Thời gian ≈ 0.017014700 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test078: 1.00
+Thời gian ≈ 0.014841619 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test079: 1.00
+Thời gian ≈ 0.017329594 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test080: 1.00
+Thời gian ≈ 0.014810438 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test081: 1.00
+Thời gian ≈ 0.017058970 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test082: 1.00
+Thời gian ≈ 0.017267231 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test083: 1.00
+Thời gian ≈ 0.017079757 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test084: 1.00
+Thời gian ≈ 0.014842774 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test085: 1.00
+Thời gian ≈ 0.019302882 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test086: 1.00
+Thời gian ≈ 0.015018699 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test087: 1.00
+Thời gian ≈ 0.014825836 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test088: 1.00
+Thời gian ≈ 0.015364775 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test089: 1.00
+Thời gian ≈ 0.018382836 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test090: 1.00
+Thời gian ≈ 0.014682247 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test091: 1.00
+Thời gian ≈ 0.014855478 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test092: 1.00
+Thời gian ≈ 0.014997527 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test093: 1.00
+Thời gian ≈ 0.016974664 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test094: 1.00
+Thời gian ≈ 0.014689946 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test095: 1.00
+Thời gian ≈ 0.014820062 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test096: 1.00
+Thời gian ≈ 0.017357696 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test097: 1.00
+Thời gian ≈ 0.015721245 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test098: 1.00
+Thời gian ≈ 0.014771557 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test099: 1.00
+Thời gian ≈ 0.017241439 giây
+Kết quả khớp đáp án!
+DT20‣PS‣test100: 1.00
+Thời gian ≈ 0.017657192 giây
+Kết quả khớp đáp án!
